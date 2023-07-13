@@ -32,7 +32,7 @@ To get started with the ODE-Verse-Matchmaker, ensure that you have JavaFX instal
 ```xml
 git clone https://github.com/hyperFounder/ODE-Verse-Matchmaker
 ```
-- Open the repository in IntelliJ IDEA or any other IDE. 
+- Open the ```/src``` folder in IntelliJ IDEA or any other IDE. 
 - Configure your development environment to include JavaFX libraries and dependencies.
 - Run the main method in ```Playwriter.java```.
 
