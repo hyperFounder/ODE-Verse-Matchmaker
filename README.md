@@ -2,6 +2,8 @@
 
 This project implements a client-server architecture for solving the Romeo and Juliet ordinary differential equation (ODE) over a ```TCP/IP``` network. The scenario is inspired by ```William Shakespeare's play Romeo and Juliet```, where the playwriter acts as a matchmaker between the two lovers and exchanges love letters while writing the play. At the end, the novel is dumped into a ```.csv``` file.
 
+- The client and servers communicate using a TCP/IP protocol. The client sends requests to the servers, and the servers respond with the calculated values of the ODE. The client then annotates these values in the novel.
+
 # Project Structure
 
 The project consists of three main components:
@@ -24,9 +26,6 @@ git clone https://github.com/hyperFounder/ODE-Verse-Matchmaker
 - Open the terminal and navigate to the project directory.
 
 - Compile and run the server applications (Romeo and Juliet) on separate terminal windows or machines.
-
-# TCP/IP Communication Protocol
-The client and servers communicate using a TCP/IP protocol. The client sends requests to the servers, and the servers respond with the calculated values of the ODE. The client then annotates these values in the novel.
 
 # License
 This project is licensed under the [MIT License](https://github.com/hyperFounder/ODE-Verse-Matchmaker/blob/main/LICENSE).
