@@ -23,16 +23,22 @@ The project consists of three main components:
 
 # Getting Started
 
-To get started with the ODE-Verse-Matchmaker, ensure that you have [IntelliJ IDEA](https://www.jetbrains.com/idea/) and [JavaFX](https://openjfx.io/) installed. Follow the steps below:
+To get started with the ODE-Verse-Matchmaker, ensure that you have [IntelliJ IDEA](https://www.jetbrains.com/idea/) and [JavaFX SDK](https://openjfx.io/) installed. Follow the steps below:
 
 - Clone the repository to your local machine.
 ```xml
 git clone https://github.com/hyperFounder/ODE-Verse-Matchmaker
 ```
-- Create a new ```JavaFX Project``` in IntelliJ IDEA
-- Copy all the ```.java``` files from the ```/src``` folder to the newly created JavaFX Project
-- Run the main method in ```Playwriter.java```.
+- Open the ODE-Verse-Matchmaker project into IntelliJ IDEA.
+- [Setting Up IntelliJ IDEA](#setting-up-intellij-idea)
+- Build and Run the main method in ```Playwriter.java```.
 
+# Setting Up IntelliJ IDEA
+
+- Download and install the latest version of IntelliJ IDEA Community Edition or Ultimate Edition from the JetBrains website.
+- Ensure that the JavaFX library is properly configured in IntelliJ IDEA.
+  - Go to "File" -> "Project Structure" -> "Libraries" and add the JavaFX library by selecting the JavaFX SDK installation directory.
+- Build the project in IntelliJ IDEA and verify that the project compiles successfully.
 
 # License
 This project is licensed under the [MIT License](https://github.com/hyperFounder/ODE-Verse-Matchmaker/blob/main/LICENSE).
