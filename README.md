@@ -30,7 +30,7 @@ To get started with the ODE-Verse-Matchmaker, ensure that you have [IntelliJ IDE
 git clone https://github.com/hyperFounder/ODE-Verse-Matchmaker
 ```
 - Create a new ```JavaFX Project``` in IntelliJ IDEA
-- Copy the ```.java``` files from the ```/src``` folder to the newly created JavaFX Project
+- Copy all the ```.java``` files from the ```/src``` folder to the newly created JavaFX Project
 - Run the main method in ```Playwriter.java```.
 
 
