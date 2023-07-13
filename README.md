@@ -39,7 +39,7 @@ git clone https://github.com/hyperFounder/ODE-Verse-Matchmaker
   
 - Launch IntelliJ IDEA and configure your Java JDK.
   
-  - Go to "File" -> "Project Structure" -> "Project Settings" -> "Project" and select a JDK in the "Project SDK" dropdown.
+  - Go to "File" -> "Project Structure" -> "Project Settings" -> "Project" and select a SDK in the "Project SDK" dropdown.
   
 - Ensure that the JavaFX library is properly configured in IntelliJ IDEA.
   - Go to "File" -> "Project Structure" -> "Libraries" and add the ```javafx-sdk/lib``` folder by selecting the JavaFX SDK installation directory.
