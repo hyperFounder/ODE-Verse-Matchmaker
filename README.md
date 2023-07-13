@@ -23,7 +23,7 @@ The project consists of three main components:
 
 # Getting Started
 
-To get started with the ODE-Verse-Matchmaker, ensure that you have [IntelliJ IDEA](https://www.jetbrains.com/idea/) and [JavaFX SDK](https://openjfx.io/) installed. Follow the steps below:
+To get started with the ODE-Verse-Matchmaker, ensure that you have [IntelliJ IDEA](https://www.jetbrains.com/idea/) and [JavaFX SDK](https://openjfx.io/) downloaded. Follow the steps below:
 
 - Clone the repository to your local machine.
 ```xml
